@@ -1,0 +1,28 @@
+{
+  "archive_date": "2026-10-29",
+  "purpose": "Consolidation of already executed research; no new experiments in this archive build",
+  "master_normalized_run_rows": 52970,
+  "master_normalized_run_rows_by_study": {
+    "V7_PILOT_30": 150,
+    "V7_500": 2500,
+    "EXT_MEAN_100": 500,
+    "TRACE_500": 12000,
+    "EXP07": 28000,
+    "EXP08": 2500,
+    "EXP09A_ORIGINAL": 2000,
+    "EXP09A_RERUN": 2000,
+    "EXP09B": 3000,
+    "EXP10U": 300,
+    "EXP10U_STRESS": 20
+  },
+  "master_comparison_entries": 348,
+  "master_highlight_entries": 25,
+  "number_of_registered_studies": 14,
+  "source_files_included_excluding_index": 654,
+  "source_bytes_included_excluding_index": 125325316,
+  "external_original_observation_count": 18000,
+  "genuine_onos_ovs_executed": false,
+  "physical_H1_0_executed": false,
+  "independence_warning": "Experimental runs reuse common input/underlying hardware and should not be summed as statistically independent; old delivery ZIPs duplicate included files.",
+  "scientific_conclusion": "Make-before-break generally reduced observed application-response gaps, while locked P1/P1-v1.1 has not established robust superiority over B4 in measured endpoint tests."
+}

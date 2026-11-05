@@ -1,0 +1,349 @@
+study_id,evidence_class,condition,strategy,trials,metric_label,mean_value,unit,source_file
+V7_500,SINGLE_HOST_TLS,,B1,500,observed_batch_completion_ms,80.5906,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,B1,500,pooled_p95_reconnect_ms,15.0392,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,B2,500,observed_batch_completion_ms,181.7033,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,B2,500,pooled_p95_reconnect_ms,13.081,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,B3,500,observed_batch_completion_ms,322.2402,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,B3,500,pooled_p95_reconnect_ms,12.0227,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,B4,500,observed_batch_completion_ms,80.9871,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,B4,500,pooled_p95_reconnect_ms,14.8576,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,P1,500,observed_batch_completion_ms,124.4479,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+V7_500,SINGLE_HOST_TLS,,P1,500,pooled_p95_reconnect_ms,12.8637,ms,SDN_PQC_Seven_Virtual_Roles_500x5_Executed/results/policy_summary_500.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B1,100,observed_batch_wall_including_injected_delays_ms,117.8825,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B1,100,pooled_p95_reconnect_ms,28.1958,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B2,100,observed_batch_wall_including_injected_delays_ms,265.1135,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B2,100,pooled_p95_reconnect_ms,26.7385,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B3,100,observed_batch_wall_including_injected_delays_ms,488.4405,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B3,100,pooled_p95_reconnect_ms,26.9027,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B4,100,observed_batch_wall_including_injected_delays_ms,118.2541,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,B4,100,pooled_p95_reconnect_ms,28.2039,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,P1,100,observed_batch_wall_including_injected_delays_ms,210.9568,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+EXT_MEAN_100,SINGLE_HOST_TLS+INJECTED_DELAYS,,P1,100,pooled_p95_reconnect_ms,27.5099,ms,SDN_PQC_External_Benchmark_Informed_Pilot/results/policy_summary_external.csv
+TRACE_500,MODELED_REPLAY,localhost,B1,500,modeled_batch_makespan_ms,115.398,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B1,500,modeled_p95_job_finish_ms,111.3896,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B1,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B2,500,modeled_batch_makespan_ms,254.2076,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B2,500,modeled_p95_job_finish_ms,249.4629,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B2,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B3,500,modeled_batch_makespan_ms,443.1138,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B3,500,modeled_p95_job_finish_ms,422.5414,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B3,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B4,500,modeled_batch_makespan_ms,115.5883,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B4,500,modeled_p95_job_finish_ms,111.4866,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,B4,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,P1,500,modeled_batch_makespan_ms,204.2076,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,P1,500,modeled_p95_job_finish_ms,199.4629,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,P1,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,P1_ORDER4_ABLATION,500,modeled_batch_makespan_ms,115.398,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,P1_ORDER4_ABLATION,500,modeled_p95_job_finish_ms,111.3896,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,localhost,P1_ORDER4_ABLATION,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B1,500,modeled_batch_makespan_ms,263.9226,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B1,500,modeled_p95_job_finish_ms,257.5905,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B1,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B2,500,modeled_batch_makespan_ms,535.8251,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B2,500,modeled_p95_job_finish_ms,529.066,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B2,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B3,500,modeled_batch_makespan_ms,978.8794,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B3,500,modeled_p95_job_finish_ms,933.8903,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B3,500,modeled_deadline_misses_count,0.032,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B4,500,modeled_batch_makespan_ms,263.6138,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B4,500,modeled_p95_job_finish_ms,257.2424,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,B4,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,P1,500,modeled_batch_makespan_ms,485.8251,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,P1,500,modeled_p95_job_finish_ms,479.066,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,P1,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,P1_ORDER4_ABLATION,500,modeled_batch_makespan_ms,263.9226,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,P1_ORDER4_ABLATION,500,modeled_p95_job_finish_ms,257.5905,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,broadband,P1_ORDER4_ABLATION,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B1,500,modeled_batch_makespan_ms,1080.6234,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B1,500,modeled_p95_job_finish_ms,1071.7581,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B1,500,modeled_deadline_misses_count,2.916,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B2,500,modeled_batch_makespan_ms,2153.8647,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B2,500,modeled_p95_job_finish_ms,2145.6014,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B2,500,modeled_deadline_misses_count,8.03,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B3,500,modeled_batch_makespan_ms,4199.4399,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B3,500,modeled_p95_job_finish_ms,4006.9724,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B3,500,modeled_deadline_misses_count,10.032,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B4,500,modeled_batch_makespan_ms,1080.519,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B4,500,modeled_p95_job_finish_ms,1070.6859,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,B4,500,modeled_deadline_misses_count,3.298,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,P1,500,modeled_batch_makespan_ms,2103.8647,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,P1,500,modeled_p95_job_finish_ms,2095.6014,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,P1,500,modeled_deadline_misses_count,8.028,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,P1_ORDER4_ABLATION,500,modeled_batch_makespan_ms,1080.6234,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,P1_ORDER4_ABLATION,500,modeled_p95_job_finish_ms,1071.7581,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,intercontinental,P1_ORDER4_ABLATION,500,modeled_deadline_misses_count,2.916,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B1,500,modeled_batch_makespan_ms,489.1843,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B1,500,modeled_p95_job_finish_ms,479.4533,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B1,500,modeled_deadline_misses_count,0.0,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B2,500,modeled_batch_makespan_ms,984.7007,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B2,500,modeled_p95_job_finish_ms,975.301,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B2,500,modeled_deadline_misses_count,0.088,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B3,500,modeled_batch_makespan_ms,1876.6669,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B3,500,modeled_p95_job_finish_ms,1683.5868,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B3,500,modeled_deadline_misses_count,3.004,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B4,500,modeled_batch_makespan_ms,1036.8984,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B4,500,modeled_p95_job_finish_ms,895.732,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,B4,500,modeled_deadline_misses_count,0.154,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,P1,500,modeled_batch_makespan_ms,1267.6804,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,P1,500,modeled_p95_job_finish_ms,1259.809,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,P1,500,modeled_deadline_misses_count,6.194,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,P1_ORDER4_ABLATION,500,modeled_batch_makespan_ms,785.6622,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,P1_ORDER4_ABLATION,500,modeled_p95_job_finish_ms,778.5514,ms,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+TRACE_500,MODELED_REPLAY,mixed,P1_ORDER4_ABLATION,500,modeled_deadline_misses_count,0.056,count,SDN_PQC_Original_GitHub_Trace_Replay_V1_0/results/trace_replay_policy_summary_24.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B1,500,modeled_batch_makespan_ms,186.363,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B1,500,modeled_p95_job_finish_ms,177.6874,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B2,500,modeled_batch_makespan_ms,255.4021,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B2,500,modeled_p95_job_finish_ms,250.2694,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B2,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B3,500,modeled_batch_makespan_ms,195.0279,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B3,500,modeled_p95_job_finish_ms,186.2699,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B3,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B4,500,modeled_batch_makespan_ms,186.5184,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B4,500,modeled_p95_job_finish_ms,177.6718,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,B4,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,P1,500,modeled_batch_makespan_ms,186.363,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,P1,500,modeled_p95_job_finish_ms,177.6874,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,P1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,P1_v1.1_candidate,500,modeled_batch_makespan_ms,186.363,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,177.6874,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,P1_v1.1_candidate,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,186.363,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,177.6874,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=2,LPT_unguarded_ablation,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B1,500,modeled_batch_makespan_ms,102.2722,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B1,500,modeled_p95_job_finish_ms,96.6201,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B2,500,modeled_batch_makespan_ms,136.1688,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B2,500,modeled_p95_job_finish_ms,132.2771,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B2,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B3,500,modeled_batch_makespan_ms,125.8823,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B3,500,modeled_p95_job_finish_ms,119.986,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B3,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B4,500,modeled_batch_makespan_ms,102.2355,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B4,500,modeled_p95_job_finish_ms,96.6973,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,B4,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,P1,500,modeled_batch_makespan_ms,102.2722,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,P1,500,modeled_p95_job_finish_ms,96.6201,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,P1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,P1_v1.1_candidate,500,modeled_batch_makespan_ms,102.2722,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,96.6201,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,P1_v1.1_candidate,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,102.2722,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,96.6201,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,localhost; cap=4,LPT_unguarded_ablation,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B1,500,modeled_batch_makespan_ms,463.0385,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B1,500,modeled_p95_job_finish_ms,445.5572,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B2,500,modeled_batch_makespan_ms,538.913,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B2,500,modeled_p95_job_finish_ms,530.9609,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B2,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B3,500,modeled_batch_makespan_ms,470.1477,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B3,500,modeled_p95_job_finish_ms,452.0186,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B3,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B4,500,modeled_batch_makespan_ms,463.9699,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B4,500,modeled_p95_job_finish_ms,445.464,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,B4,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,P1,500,modeled_batch_makespan_ms,463.0385,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,P1,500,modeled_p95_job_finish_ms,445.5572,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,P1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,P1_v1.1_candidate,500,modeled_batch_makespan_ms,463.0385,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,445.5572,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,P1_v1.1_candidate,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,463.0385,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,445.5572,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=2,LPT_unguarded_ablation,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B1,500,modeled_batch_makespan_ms,247.8023,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B1,500,modeled_p95_job_finish_ms,236.9043,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B2,500,modeled_batch_makespan_ms,286.7763,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B2,500,modeled_p95_job_finish_ms,279.8346,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B2,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B3,500,modeled_batch_makespan_ms,265.6994,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B3,500,modeled_p95_job_finish_ms,254.4982,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B3,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B4,500,modeled_batch_makespan_ms,248.6573,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B4,500,modeled_p95_job_finish_ms,237.3245,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,B4,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,P1,500,modeled_batch_makespan_ms,247.8023,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,P1,500,modeled_p95_job_finish_ms,236.9043,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,P1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,P1_v1.1_candidate,500,modeled_batch_makespan_ms,247.8023,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,236.9043,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,P1_v1.1_candidate,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,247.8023,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,236.9043,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,broadband; cap=4,LPT_unguarded_ablation,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B1,500,modeled_batch_makespan_ms,2081.9869,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B1,500,modeled_p95_job_finish_ms,2054.4506,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B1,500,modeled_deadline_misses_count,8.008,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B2,500,modeled_batch_makespan_ms,2157.616,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B2,500,modeled_p95_job_finish_ms,2147.9562,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B2,500,modeled_deadline_misses_count,8.016,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B3,500,modeled_batch_makespan_ms,2088.5003,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B3,500,modeled_p95_job_finish_ms,2060.2827,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B3,500,modeled_deadline_misses_count,8.008,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B4,500,modeled_batch_makespan_ms,2081.1064,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B4,500,modeled_p95_job_finish_ms,2054.5386,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,B4,500,modeled_deadline_misses_count,7.554,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,P1,500,modeled_batch_makespan_ms,2081.9869,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,P1,500,modeled_p95_job_finish_ms,2054.4506,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,P1,500,modeled_deadline_misses_count,8.008,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,P1_v1.1_candidate,500,modeled_batch_makespan_ms,2081.9869,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,2054.4506,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,P1_v1.1_candidate,500,modeled_deadline_misses_count,8.008,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,2081.9869,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,2054.4506,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=2,LPT_unguarded_ablation,500,modeled_deadline_misses_count,8.008,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B1,500,modeled_batch_makespan_ms,1063.6211,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B1,500,modeled_p95_job_finish_ms,1046.0056,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B1,500,modeled_deadline_misses_count,2.052,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B2,500,modeled_batch_makespan_ms,1103.2783,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B2,500,modeled_p95_job_finish_ms,1094.0482,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B2,500,modeled_deadline_misses_count,3.512,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B3,500,modeled_batch_makespan_ms,1080.9806,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B3,500,modeled_p95_job_finish_ms,1063.2146,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B3,500,modeled_deadline_misses_count,2.878,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B4,500,modeled_batch_makespan_ms,1062.6451,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B4,500,modeled_p95_job_finish_ms,1045.7309,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,B4,500,modeled_deadline_misses_count,3.03,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,P1,500,modeled_batch_makespan_ms,1063.6211,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,P1,500,modeled_p95_job_finish_ms,1046.0056,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,P1,500,modeled_deadline_misses_count,2.052,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,P1_v1.1_candidate,500,modeled_batch_makespan_ms,1063.6211,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,1046.0056,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,P1_v1.1_candidate,500,modeled_deadline_misses_count,2.052,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,1063.6211,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,1046.0056,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,intercontinental; cap=4,LPT_unguarded_ablation,500,modeled_deadline_misses_count,2.052,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B1,500,modeled_batch_makespan_ms,914.9446,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B1,500,modeled_p95_job_finish_ms,894.1958,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B1,500,modeled_deadline_misses_count,0.016,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B2,500,modeled_batch_makespan_ms,986.7159,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B2,500,modeled_p95_job_finish_ms,976.1394,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B2,500,modeled_deadline_misses_count,0.08,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B3,500,modeled_batch_makespan_ms,922.4568,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B3,500,modeled_p95_job_finish_ms,901.4147,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B3,500,modeled_deadline_misses_count,0.016,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B4,500,modeled_batch_makespan_ms,912.2959,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B4,500,modeled_p95_job_finish_ms,894.4607,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,B4,500,modeled_deadline_misses_count,0.774,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,P1,500,modeled_batch_makespan_ms,917.9075,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,P1,500,modeled_p95_job_finish_ms,893.8995,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,P1,500,modeled_deadline_misses_count,0.282,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,P1_v1.1_candidate,500,modeled_batch_makespan_ms,917.9075,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,893.8995,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,P1_v1.1_candidate,500,modeled_deadline_misses_count,0.282,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,903.9428,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,895.296,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=2,LPT_unguarded_ablation,500,modeled_deadline_misses_count,4.026,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B1,500,modeled_batch_makespan_ms,474.5938,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B1,500,modeled_p95_job_finish_ms,461.7462,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B2,500,modeled_batch_makespan_ms,510.36,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B2,500,modeled_p95_job_finish_ms,499.7738,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B2,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B3,500,modeled_batch_makespan_ms,495.547,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B3,500,modeled_p95_job_finish_ms,482.5183,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B3,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B4,500,modeled_batch_makespan_ms,483.7505,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B4,500,modeled_p95_job_finish_ms,467.3579,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,B4,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,P1,500,modeled_batch_makespan_ms,474.253,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,P1,500,modeled_p95_job_finish_ms,463.4767,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,P1,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,P1_v1.1_candidate,500,modeled_batch_makespan_ms,463.3444,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,P1_v1.1_candidate,500,modeled_p95_job_finish_ms,456.5106,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,P1_v1.1_candidate,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,LPT_unguarded_ablation,500,modeled_batch_makespan_ms,463.3444,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,LPT_unguarded_ablation,500,modeled_p95_job_finish_ms,456.5106,ms,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP07,MODELED_REPLAY,mixed; cap=4,LPT_unguarded_ablation,500,modeled_deadline_misses_count,0.0,count,EXP07_Fair_Concurrency_Heldout/results/summary_56.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B1,500,observed_mean_run_p95_service_disruption_ms,6.952299816899999,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B1,500,observed_batch_wall_including_harness_ms,175.9365048720283,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B2,500,observed_mean_run_p95_service_disruption_ms,6.5504092323,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B2,500,observed_batch_wall_including_harness_ms,223.214749457984,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B3,500,observed_mean_run_p95_service_disruption_ms,5.973213911999999,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B3,500,observed_batch_wall_including_harness_ms,256.61020739800006,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B4,500,observed_mean_run_p95_service_disruption_ms,6.8637218123,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,B4,500,observed_batch_wall_including_harness_ms,176.18798260402764,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,P1,500,observed_mean_run_p95_service_disruption_ms,6.963876111399999,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP08,SINGLE_HOST_LIVE_APP_TLS,,P1,500,observed_batch_wall_including_harness_ms,176.7847606780124,ms,EXP08_Continuous_TLS_Migration/results/EXP08_low_cap4_500blocks_policy_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,bmb,B4,500,observed_mean_run_p95_inter_response_gap_ms,9.422773873399999,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,bmb,B4,500,observed_excess_response_gap_ms,6.090621232499999,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,bmb,B4,500,observed_batch_wall_including_harness_ms,186.62592165804745,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,mbb,B4,500,observed_mean_run_p95_inter_response_gap_ms,4.308909240999999,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,mbb,B4,500,observed_excess_response_gap_ms,0.9918428403999997,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,mbb,B4,500,observed_batch_wall_including_harness_ms,184.8996392339941,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,bmb,P1,500,observed_mean_run_p95_inter_response_gap_ms,9.0783396903,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,bmb,P1,500,observed_excess_response_gap_ms,5.718806581299999,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,bmb,P1,500,observed_batch_wall_including_harness_ms,184.83062322399928,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,mbb,P1,500,observed_mean_run_p95_inter_response_gap_ms,4.4102029095,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,mbb,P1,500,observed_excess_response_gap_ms,1.0579827407999998,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_ORIGINAL,SINGLE_HOST_LIVE_APP_TLS,mbb,P1,500,observed_batch_wall_including_harness_ms,186.28340713400758,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_core_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,bmb,B4,500,observed_mean_run_p95_inter_response_gap_ms,8.781875279,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,bmb,B4,500,observed_excess_response_gap_ms,5.490014544999999,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,bmb,B4,500,observed_batch_wall_including_harness_ms,181.8502024219888,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,mbb,B4,500,observed_mean_run_p95_inter_response_gap_ms,4.2399262562999995,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,mbb,B4,500,observed_excess_response_gap_ms,0.9617588408999996,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,mbb,B4,500,observed_batch_wall_including_harness_ms,182.13401941200573,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,bmb,P1,500,observed_mean_run_p95_inter_response_gap_ms,8.8958317607,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,bmb,P1,500,observed_excess_response_gap_ms,5.5726507738999995,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,bmb,P1,500,observed_batch_wall_including_harness_ms,182.1827804660461,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,mbb,P1,500,observed_mean_run_p95_inter_response_gap_ms,4.291579255699999,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,mbb,P1,500,observed_excess_response_gap_ms,0.9698869092999997,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09A_RERUN,SINGLE_HOST_LIVE_APP_TLS,mbb,P1,500,observed_batch_wall_including_harness_ms,182.2942528060339,ms,EXP09A_Continuous_TLS_MBB_vs_BMB/results/EXP09A_rerun_cap4_500blocks_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,B4,500,observed_mean_run_p95_inter_response_gap_ms,3.16451,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,B4,500,observed_excess_response_gap_ms,0.949298,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,B4,500,observed_deadline_expired_count,0.0,count,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,P1,500,observed_mean_run_p95_inter_response_gap_ms,3.281787,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,P1,500,observed_excess_response_gap_ms,1.040191,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,P1,500,observed_deadline_expired_count,0.0,count,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,P1_v1.1,500,observed_mean_run_p95_inter_response_gap_ms,3.179346,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,P1_v1.1,500,observed_excess_response_gap_ms,0.963969,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,fast_requests,P1_v1.1,500,observed_deadline_expired_count,0.0,count,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,B4,500,observed_mean_run_p95_inter_response_gap_ms,7.991786,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,B4,500,observed_excess_response_gap_ms,0.90576,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,B4,500,observed_deadline_expired_count,0.0,count,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,P1,500,observed_mean_run_p95_inter_response_gap_ms,7.988519,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,P1,500,observed_excess_response_gap_ms,0.855433,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,P1,500,observed_deadline_expired_count,0.0,count,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,P1_v1.1,500,observed_mean_run_p95_inter_response_gap_ms,7.938828,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,P1_v1.1,500,observed_excess_response_gap_ms,0.850785,ms,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP09B,SINGLE_HOST_LIVE_APP_TLS,slow_requests,P1_v1.1,500,observed_deadline_expired_count,0.0,count,EXP09B_MBB_Deadline_Heldout/results/EXP09B_policy_summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B1,30,observed_mean_run_p95_inter_response_gap_ms,53.999597406666666,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B1,30,observed_batch_cutover_ms,241.15844853355762,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B1,30,userspace_flow_staging_ms,0.4138933334616013,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B2,30,observed_mean_run_p95_inter_response_gap_ms,53.99220732833333,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B2,30,observed_batch_cutover_ms,246.55851633360726,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B2,30,userspace_flow_staging_ms,0.42717753337152925,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B3,30,observed_mean_run_p95_inter_response_gap_ms,53.83429836,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B3,30,observed_batch_cutover_ms,389.46204653329914,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B3,30,userspace_flow_staging_ms,0.38467846607090905,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B4,30,observed_mean_run_p95_inter_response_gap_ms,58.5648422,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B4,30,observed_batch_cutover_ms,256.1409420336228,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,B4,30,userspace_flow_staging_ms,0.339000533373716,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,P1,30,observed_mean_run_p95_inter_response_gap_ms,54.27907928333333,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,P1,30,observed_batch_cutover_ms,254.73339136672925,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,bmb,P1,30,userspace_flow_staging_ms,0.4557217333058361,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B1,30,observed_mean_run_p95_inter_response_gap_ms,4.224525366666666,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B1,30,observed_batch_cutover_ms,242.15119950046451,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B1,30,userspace_flow_staging_ms,0.39369039974796277,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B2,30,observed_mean_run_p95_inter_response_gap_ms,4.018810151666666,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B2,30,observed_batch_cutover_ms,252.40903450018473,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B2,30,userspace_flow_staging_ms,0.373165400014841,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B3,30,observed_mean_run_p95_inter_response_gap_ms,4.670724783333331,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B3,30,observed_batch_cutover_ms,405.3815063998627,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B3,30,userspace_flow_staging_ms,0.48067013352313853,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B4,30,observed_mean_run_p95_inter_response_gap_ms,4.833991409999999,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B4,30,observed_batch_cutover_ms,258.73584733380994,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,B4,30,userspace_flow_staging_ms,0.5862887329082392,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,P1,30,observed_mean_run_p95_inter_response_gap_ms,4.249896113333333,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,P1,30,observed_batch_cutover_ms,243.8312823328791,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U,USERSPACE_CONTROLLED_TLS,mbb,P1,30,userspace_flow_staging_ms,0.4026398339192383,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/controlled_30blocks_5policies_2mechanisms/summary.csv
+EXP10U_STRESS,USERSPACE_CONTROLLED_TLS,mbb,B4,10,observed_mean_run_p95_inter_response_gap_ms,3.258485474999999,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/high_signal_10blocks_mbb_B4_P1/summary.csv
+EXP10U_STRESS,USERSPACE_CONTROLLED_TLS,mbb,B4,10,observed_batch_cutover_ms,236.069679999855,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/high_signal_10blocks_mbb_B4_P1/summary.csv
+EXP10U_STRESS,USERSPACE_CONTROLLED_TLS,mbb,B4,10,userspace_flow_staging_ms,0.8554174994060304,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/high_signal_10blocks_mbb_B4_P1/summary.csv
+EXP10U_STRESS,USERSPACE_CONTROLLED_TLS,mbb,P1,10,observed_mean_run_p95_inter_response_gap_ms,2.8443167449999995,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/high_signal_10blocks_mbb_B4_P1/summary.csv
+EXP10U_STRESS,USERSPACE_CONTROLLED_TLS,mbb,P1,10,observed_batch_cutover_ms,393.0833417005488,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/high_signal_10blocks_mbb_B4_P1/summary.csv
+EXP10U_STRESS,USERSPACE_CONTROLLED_TLS,mbb,P1,10,userspace_flow_staging_ms,0.36410879947652575,ms,EXP10U_UserSpace_OpenFlow13_Executed/results/high_signal_10blocks_mbb_B4_P1/summary.csv
